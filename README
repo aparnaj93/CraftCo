@@ -1,0 +1,8 @@
+Installation:
+1. pip install -r requirements.txt
+
+Example Usage:
+python merge_csv.py --file1 resources/names.csv --file2 resources/descriptions.csv --output_path output.csv
+
+Running Tests:
+python -m pytest tests/
